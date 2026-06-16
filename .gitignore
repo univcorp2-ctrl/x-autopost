@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# State (personal data)
+posted_state.json
+
+# Logs
+*.log
+cf_worker_error.log
+
+# Node.js
+node_modules/
+npm-debug.log*
